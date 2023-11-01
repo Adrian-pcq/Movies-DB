@@ -1,7 +1,7 @@
 # Movies-DB
 ---
 
-## Installation To run Movie Lovers locally:
+## For run MoviesDB locally:
 
 - `cd movies-db` for open app's directory
 - `npm install` for install required Node.js modules
