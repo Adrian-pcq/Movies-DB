@@ -67,8 +67,6 @@ function Movie({
       <h3>Actors: </h3>
       <p>{actors}</p>
       <h3>Ratings: </h3>
-      <h3>Rotten Tomatoes</h3>
-      <p>{rottenTomatoes}</p>
       <h3>imdbRating</h3>
       <p>{imdbRating}</p>
       <h3>Plot: </h3>

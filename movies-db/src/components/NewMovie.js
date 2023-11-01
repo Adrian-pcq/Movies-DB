@@ -18,7 +18,6 @@ function NewMovie({setMoviesArray}){
         Plot:"",
         Awards:"",
         Poster:"",
-        ["Rotten Tomatoes"]:"",
         imdbRating:"",
         movieLink:""
  
@@ -46,7 +45,6 @@ function NewMovie({setMoviesArray}){
             Plot: formData.Plot,
             Awards: formData.Awards,
             Poster: formData.Poster,
-            ["Rotten Tomatoes"]: formData["Rotten Tomatoes"],
             imdbRating: formData.imdbRating,
             movieLink: formData.movieLink
             
