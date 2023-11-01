@@ -75,7 +75,7 @@ function Movie({
       <p>{plot}</p>
       <button onClick={()=>handleDelete(id)}>DELETE</button>
       <button>
-        <a href={movieLink} target="_blank">WATCH NOW</a>
+        <a href={movieLink} target="_blank" rel="noreferrer">WATCH NOW</a>
       </button>
         
     </div>
