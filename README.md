@@ -3,9 +3,10 @@
 
 ## For run MoviesDB locally:
 
-- `cd movies-db` for open app's directory
-- `npm install` for install required Node.js modules
-- `npm start` Start the React app in your browser
+- `cd movies-db` for open app's directory.
+- `npm install` for install required Node.js modules.
+- `npm start` Start the React app in your browser.
+- In another terminal `cd movies-db` for open app's directory.
 - `npm run server` The app uses an internal JSON database, which you can initialize with
 
 ---
