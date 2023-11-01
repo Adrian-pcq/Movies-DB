@@ -13,7 +13,7 @@
 ## Usage: 
 Upon loading, the app displays 5 random movies that refresh upon page reload or leaving. Use the navbar to navigate to the movie collection page. Explore a vast movie collection. Search for movies by title, year of release, actors, or director. Permanently remove movies from the database. Click on movie posters to view detailed information.
 
-### Features Explore Movies
+## Features:
 
 Browse through a diverse collection of movies. Search for specific movies using the search bar. Filter movies by genre, release year, or other criteria. Discover details about each movie, including title, genre, release year, and more. Random Movie Generator
 
