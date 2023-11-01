@@ -97,9 +97,6 @@ function NewMovie({setMoviesArray}){
 
             <label htmlFor="poster">Poster:</label>
             <input type="text" name="Poster"onChange={handleChange}/>
-            
-            <label htmlFor="rottenTomatoes">Rotten Tomatoes:</label>
-            <input type="text" name="Rotten Tomatoes"onChange={handleChange}/>
 
             <label htmlFor="imdb">Imdb Rating:</label>
             <input type="text" name="imdbRating"onChange={handleChange}/>

@@ -15,7 +15,6 @@ function Movie({
   poster,
   onhandleDelete, 
   imdbRating,
-  rottenTomatoes,
   movieLink
 }){
 

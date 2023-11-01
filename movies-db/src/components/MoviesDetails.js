@@ -17,7 +17,6 @@ function MoviesDetails({moviesArray,setMoviesArray}){
         movie.Director.toLowerCase().includes(searchTerm.toLowerCase()) ||
         movie.Genre.toLowerCase().includes(searchTerm.toLowerCase()) ||
         movie.Plot.toLowerCase().includes(searchTerm.toLowerCase()) ||
-        movie["Rotten Tomatoes"].includes(searchTerm) ||
         movie.imdbRating.includes(searchTerm)
         ))
 
